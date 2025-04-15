@@ -1,0 +1,104 @@
+body {
+    background-color: #202023;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+/* Header Navigation */
+header {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #202023;
+  padding: 8px 10px;
+}
+
+/* Burger Icon */
+#burger-icon {
+  width: 40px;
+  height: 40px;
+  background: url('../assets/images/burg.svg') no-repeat center;
+  background-size: cover;
+  border: none;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+/* Left & Right Buttons */
+.left-section, .left-buttons, .right-buttons {
+  display: flex;
+}
+
+.left-buttons ul, .right-buttons ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.left-buttons button, .right-buttons button {
+  font-family: "Quicksand", serif;
+  font-size: 22px;
+  background-color: #202023;
+  color: #E8CAF4;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.left-buttons button:hover, .right-buttons button:hover,.left-buttons button:active, .right-buttons button:active {
+  color: #8269C5;
+}
+
+/* Mobile nav adjustments */
+@media (max-width: 768px) {
+  .right-buttons {
+    display: none;
+  }
+  .left-buttons li:nth-child(3) {
+    display: none;
+  }
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+.sectionlevel1{
+    background-color: blueviolet;
+    margin: 10px;
+}
+
+#content-section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.sectionlevel2{
+    background-color: chartreuse;
+    margin: 10px;
+}
+
+#email-form{
+    width: 500px;
+}
+
+#social-media{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#email-form{
+    position: relative;
+}
+#profile-pic{
+    position: absolute;
+    top : 0px;
+    left: 0px;
+}

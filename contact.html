@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- CSS Reset -->
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/reset-css@3.0.0/reset.min.css"/>
+
+        <!-- External CSS -->
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+        <!-- google font -->
+        <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
+        <script src="common.js" defer></script>
+        <script src="script.js" defer></script>
+
+
+        <title>Contact Me</title>
+    </head>
+
+    <body>
+        <div id="header"></div>
+        <main>
+            <section class="sectionlevel1">
+                <!-- backgroud image or an image -->
+                <div class="banner"></div>
+            </section>
+            <!-- second section -->
+            <section class="sectionlevel1" id="content-section">
+                <div class="pfpcontainer">
+                    <img src="assets/images/pfp.jpg" alt="A photo of Mune" id="pfp">
+                </div>
+                <section id="email-form" class="sectionlevel2">
+                    <h2>GET IN TOUCH</h2>
+                    <form action="post" id="myForm">
+                        <fieldset class="frmfield">
+                            <div class="nameInput">
+                                <div>
+                                    <input type="text" name="first-name" id="form-fName" placeholder=" First Name" required>
+                                </div>
+                                <div>
+                                    <input type="text" name="last-name" id="form-lName" placeholder=" Last Name" required>
+                                </div>
+                            </div>
+                        </fieldset>
+                        <fieldset class="frmfield">
+                            <div>
+                                <div class="email">
+                                    <input type="text" name="email" id="form-email" placeholder=" Email" required>
+                                </div>
+                                <div class="emailInput">
+                                    <textarea name="emailinput" id="form-emailinput" placeholder=" How can I help you?"
+                                        required></textarea>
+                                </div>
+                            </div>
+                        </fieldset>
+                        <div class="subbtn">
+                            <input type="submit" value="Submit">
+                        </div>
+                        <audio id="confirmationSound" src="./assets/sounds/se_010_0152.mp3"></audio>
+                    </form>
+                </section>
+                <section id="social-media" class="sectionlevel2">
+                        <!-- commission forms section -->
+                        <section id="commission-forms">
+                            <h2>COMMISSION FORMS</h2>
+                            <ul class="combuttons">
+                                <li><button class="contactbtn">Art Commissions</button></li>
+                                <li><button class="contactbtn">YCH Terrariums</button></li>
+                                <li><button class="contactbtn">Glasses Chains</button></li>
+                            </ul>
+                        </section>
+                        <!-- social medias section -->
+                        <section id="social-medias">
+                            <h2>MY SOCIAL MEDIAS</h2>
+                            <ul class="combuttons">
+                                <li><button class="contactbtn">Crafts/Shop IG</button></li>
+                                <li><button class="contactbtn">K-POP Art/Edit IG</button></li>
+                                <li><button class="contactbtn">Multifandom IG</button></li>
+                                <li><button class="contactbtn">Multifandom BSKY</button></li>
+                                <li><button class="contactbtn">FurAffinity</button></li>
+                                <li><button class="contactbtn">TOYHOUSE</button></li>
+                            </ul>
+                        </section>
+                    </section>
+                </section>
+            </section>
+        </main>
+        
+
+        <div id="custom-alert" class="alert-box" style="display: none;">
+            <div class="alert-content">
+              <p id="alert-message">THANK YOU FOR REACHING OUT!</p>
+              <button id="confirmBtn">OK</button>
+            </div>
+          </div>    
+        <div id="footer"></div>
+    </body>
+</html>

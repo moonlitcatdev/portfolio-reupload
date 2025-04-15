@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <filter id="outer-glow-3" x="-2542" y="-121" width="482" height="204" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="18"/>
+      <feFlood flood-color="#e8caf4" flood-opacity=".76"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path d="M127.48,76.77h-54c-8.8,0-16,7.2-16,16v71.73c0,8.8,7.2,16,16,16h54c8.8,0,16-7.2,16-16v-71.73c0-8.8-7.2-16-16-16ZM127.35,137.8l-26.76,26.76-17.84-17.84.04-.04-9.18-9.17c-4.92-4.93-4.92-12.91,0-17.84,2.46-2.46,5.69-3.69,8.92-3.69s6.46,1.23,8.92,3.69l9.17,9.17,8.89-8.88c4.93-4.93,12.91-4.93,17.84,0,2.46,2.46,3.69,5.7,3.69,8.92s-1.23,6.46-3.69,8.92Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M131.04,128.88c0,3.23-1.23,6.46-3.69,8.92l-26.76,26.76-17.84-17.84.04-.04-9.18-9.17c-4.92-4.93-4.92-12.91,0-17.84,2.46-2.46,5.69-3.69,8.92-3.69s6.46,1.23,8.92,3.69l9.17,9.17,8.89-8.88c4.93-4.93,12.91-4.93,17.84,0,2.46,2.46,3.69,5.7,3.69,8.92Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M114.48,29.5v24c0,5.16-3.97,9.44-9,9.95v-5.3c2.98-1.74,5-4.97,5-8.65v-12c0-2.75-1.12-5.25-2.94-7.06-1.81-1.82-4.31-2.94-7.06-2.94-5.5,0-10,4.5-10,10v12c0,3.68,2.02,6.91,5,8.65v5.3c-5.03-.51-9-4.79-9-9.95v-24c0-5.5,4.5-10,10-10h8c5.5,0,10,4.5,10,10Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M110.48,37.5v12c0,3.68-2.02,6.91-5,8.65v-2.65c0-1.38-.56-2.62-1.47-3.53-.91-.91-2.15-1.47-3.53-1.47-2.75,0-5,2.25-5,5v2.65c-2.98-1.74-5-4.97-5-8.65v-12c0-5.5,4.5-10,10-10,2.75,0,5.25,1.12,7.06,2.94,1.82,1.81,2.94,4.31,2.94,7.06Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M114.48,75.5v1.27h-4.38c-.74-2.58-2.49-4.74-4.79-6.02.11-.4.17-.82.17-1.25v-3.95c5.03.51,9,4.79,9,9.95Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M95.65,70.75c-2.3,1.28-4.05,3.44-4.78,6.02h-4.39v-1.27c0-5.16,3.97-9.44,9-9.95v3.95c0,.43.06.85.17,1.25Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M110.1,76.77h-19.23c.73-2.58,2.48-4.74,4.78-6.02.55,2.15,2.51,3.75,4.83,3.75s4.28-1.6,4.83-3.75c2.3,1.28,4.05,3.44,4.79,6.02Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M105.48,55.5v14c0,.43-.06.85-.17,1.25-.55,2.15-2.51,3.75-4.83,3.75s-4.28-1.6-4.83-3.75c-.11-.4-.17-.82-.17-1.25v-14c0-2.75,2.25-5,5-5,1.38,0,2.62.56,3.53,1.47.91.91,1.47,2.15,1.47,3.53Z" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+</svg>

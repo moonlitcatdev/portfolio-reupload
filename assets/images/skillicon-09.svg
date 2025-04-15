@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <filter id="outer-glow-3" x="-2332" y="-329" width="482" height="204" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="18"/>
+      <feFlood flood-color="#e8caf4" flood-opacity=".76"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path d="M120.74,111.49c-.08.01-.16.01-.24.01" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M118.74,118.49c-.08.01-.16.01-.24.01" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <polygon points="100.39 78.96 102.2 84.5 108.03 84.5 103.31 87.93 105.11 93.47 100.39 90.04 95.68 93.47 97.48 87.93 92.76 84.5 98.59 84.5 100.39 78.96" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <polygon points="113.39 73.96 115.2 79.5 121.03 79.5 116.31 82.93 118.11 88.47 113.39 85.04 108.68 88.47 110.48 82.93 105.76 79.5 111.59 79.5 113.39 73.96" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <polygon points="124.39 64.96 126.2 70.5 132.03 70.5 127.31 73.93 129.11 79.47 124.39 76.04 119.68 79.47 121.48 73.93 116.76 70.5 122.59 70.5 124.39 64.96" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <ellipse cx="100" cy="50.5" rx="24.5" ry="3" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M75.5,50.5c0,15.48-9.84,28-22,28" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M53.5,78.5c0,42.56,21.02,77,47,77" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M124.5,50.5c0,15.48,9.84,28,22,28" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <path d="M146.5,78.5c0,42.56-21.02,77-47,77" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <polygon points="100.39 78.96 98.59 84.5 92.76 84.5 97.48 87.93 95.68 93.47 100.39 90.04 105.11 93.47 103.31 87.93 108.03 84.5 102.2 84.5 100.39 78.96" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <polygon points="87.39 73.96 85.59 79.5 79.76 79.5 84.48 82.93 82.68 88.47 87.39 85.04 92.11 88.47 90.31 82.93 95.03 79.5 89.2 79.5 87.39 73.96" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <polygon points="76.39 64.96 74.59 70.5 68.76 70.5 73.48 73.93 71.68 79.47 76.39 76.04 81.11 79.47 79.31 73.93 84.03 70.5 78.2 70.5 76.39 64.96" style="fill: none; stroke: #e8caf4; stroke-miterlimit: 10; stroke-width: 3px;"/>
+  <circle cx="129" cy="69" r="2" style="fill: #e8caf4;"/>
+  <circle cx="118.5" cy="77.5" r="1.5" style="fill: #e8caf4;"/>
+  <circle cx="108" cy="84" r="2" style="fill: #e8caf4;"/>
+  <circle cx="94.5" cy="83.5" r="1.5" style="fill: #e8caf4;"/>
+  <circle cx="83" cy="78" r="2" style="fill: #e8caf4;"/>
+  <circle cx="72.5" cy="70.5" r="2.5" style="fill: #e8caf4;"/>
+</svg>

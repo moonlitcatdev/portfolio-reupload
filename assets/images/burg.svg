@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22.27 22.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: #202023;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="3.56" y1="5.55" x2="18.7" y2="5.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8269c5"/>
+      <stop offset="1" stop-color="#e8caf4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="11.13" y2="11.13" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="16.71" y2="16.71" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect class="cls-3" width="22.27" height="22.27" rx="6.3" ry="6.3"/>
+  <g>
+    <rect class="cls-4" x="3.56" y="3.84" width="15.14" height="3.43" rx="1.71" ry="1.71"/>
+    <rect class="cls-1" x="3.56" y="9.42" width="15.14" height="3.43" rx="1.71" ry="1.71"/>
+    <rect class="cls-2" x="3.56" y="15" width="15.14" height="3.43" rx="1.71" ry="1.71"/>
+  </g>
+</svg>

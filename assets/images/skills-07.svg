@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e8caf4;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <filter id="outer-glow-3" x="-1913" y="-329" width="482" height="204" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="18"/>
+      <feFlood flood-color="#e8caf4" flood-opacity=".76"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <line class="cls-1" x1="64.5" y1="61.41" x2="75" y2="71.91"/>
+  <line class="cls-1" x1="75" y1="61.5" x2="64.5" y2="72"/>
+  <line class="cls-1" x1="77.03" y1="61.32" x2="87.53" y2="71.82"/>
+  <line class="cls-1" x1="87.53" y1="61.23" x2="77.03" y2="71.73"/>
+  <line class="cls-1" x1="64.5" y1="73.41" x2="75" y2="83.91"/>
+  <line class="cls-1" x1="75" y1="73.5" x2="64.5" y2="84"/>
+  <line class="cls-1" x1="77.03" y1="73.32" x2="87.53" y2="83.82"/>
+  <line class="cls-1" x1="87.53" y1="73.23" x2="77.03" y2="83.73"/>
+  <line class="cls-1" x1="39.5" y1="84.41" x2="50" y2="94.91"/>
+  <line class="cls-1" x1="50" y1="84.5" x2="39.5" y2="95"/>
+  <line class="cls-1" x1="52.03" y1="84.32" x2="62.53" y2="94.82"/>
+  <line class="cls-1" x1="62.53" y1="84.23" x2="52.03" y2="94.73"/>
+  <line class="cls-1" x1="39.5" y1="96.41" x2="50" y2="106.91"/>
+  <line class="cls-1" x1="50" y1="96.5" x2="39.5" y2="107"/>
+  <line class="cls-1" x1="52.03" y1="96.32" x2="62.53" y2="106.82"/>
+  <line class="cls-1" x1="62.53" y1="96.23" x2="52.03" y2="106.73"/>
+  <line class="cls-1" x1="88.5" y1="84.41" x2="99" y2="94.91"/>
+  <line class="cls-1" x1="99" y1="84.5" x2="88.5" y2="95"/>
+  <line class="cls-1" x1="101.03" y1="84.32" x2="111.53" y2="94.82"/>
+  <line class="cls-1" x1="111.53" y1="84.23" x2="101.03" y2="94.73"/>
+  <line class="cls-1" x1="88.5" y1="96.41" x2="99" y2="106.91"/>
+  <line class="cls-1" x1="99" y1="96.5" x2="88.5" y2="107"/>
+  <line class="cls-1" x1="101.03" y1="96.32" x2="111.53" y2="106.82"/>
+  <line class="cls-1" x1="111.53" y1="96.23" x2="101.03" y2="106.73"/>
+  <line class="cls-1" x1="113.5" y1="61.41" x2="124" y2="71.91"/>
+  <line class="cls-1" x1="124" y1="61.5" x2="113.5" y2="72"/>
+  <line class="cls-1" x1="126.03" y1="61.32" x2="136.53" y2="71.82"/>
+  <line class="cls-1" x1="136.53" y1="61.23" x2="126.03" y2="71.73"/>
+  <line class="cls-1" x1="113.5" y1="73.41" x2="124" y2="83.91"/>
+  <line class="cls-1" x1="124" y1="73.5" x2="113.5" y2="84"/>
+  <line class="cls-1" x1="126.03" y1="73.32" x2="136.53" y2="83.82"/>
+  <line class="cls-1" x1="136.53" y1="73.23" x2="126.03" y2="83.73"/>
+  <line class="cls-1" x1="88.5" y1="130.41" x2="99" y2="140.91"/>
+  <line class="cls-1" x1="99" y1="130.5" x2="88.5" y2="141"/>
+  <line class="cls-1" x1="101.03" y1="130.32" x2="111.53" y2="140.82"/>
+  <line class="cls-1" x1="111.53" y1="130.23" x2="101.03" y2="140.73"/>
+  <line class="cls-1" x1="88.5" y1="142.41" x2="99" y2="152.91"/>
+  <line class="cls-1" x1="99" y1="142.5" x2="88.5" y2="153"/>
+  <line class="cls-1" x1="101.03" y1="142.32" x2="111.53" y2="152.82"/>
+  <line class="cls-1" x1="111.53" y1="142.23" x2="101.03" y2="152.73"/>
+  <line class="cls-1" x1="137.5" y1="84.41" x2="148" y2="94.91"/>
+  <line class="cls-1" x1="148" y1="84.5" x2="137.5" y2="95"/>
+  <line class="cls-1" x1="150.03" y1="84.32" x2="160.53" y2="94.82"/>
+  <line class="cls-1" x1="160.53" y1="84.23" x2="150.03" y2="94.73"/>
+  <line class="cls-1" x1="137.5" y1="96.41" x2="148" y2="106.91"/>
+  <line class="cls-1" x1="148" y1="96.5" x2="137.5" y2="107"/>
+  <line class="cls-1" x1="150.03" y1="96.32" x2="160.53" y2="106.82"/>
+  <line class="cls-1" x1="160.53" y1="96.23" x2="150.03" y2="106.73"/>
+  <line class="cls-1" x1="113.5" y1="84.41" x2="124" y2="94.91"/>
+  <line class="cls-1" x1="124" y1="84.5" x2="113.5" y2="95"/>
+  <line class="cls-1" x1="126.03" y1="84.32" x2="136.53" y2="94.82"/>
+  <line class="cls-1" x1="136.53" y1="84.23" x2="126.03" y2="94.73"/>
+  <line class="cls-1" x1="113.5" y1="96.41" x2="124" y2="106.91"/>
+  <line class="cls-1" x1="124" y1="96.5" x2="113.5" y2="107"/>
+  <line class="cls-1" x1="126.03" y1="96.32" x2="136.53" y2="106.82"/>
+  <line class="cls-1" x1="136.53" y1="96.23" x2="126.03" y2="106.73"/>
+  <line class="cls-1" x1="63.5" y1="84.41" x2="74" y2="94.91"/>
+  <line class="cls-1" x1="74" y1="84.5" x2="63.5" y2="95"/>
+  <line class="cls-1" x1="76.03" y1="84.32" x2="86.53" y2="94.82"/>
+  <line class="cls-1" x1="86.53" y1="84.23" x2="76.03" y2="94.73"/>
+  <line class="cls-1" x1="63.5" y1="96.41" x2="74" y2="106.91"/>
+  <line class="cls-1" x1="74" y1="96.5" x2="63.5" y2="107"/>
+  <line class="cls-1" x1="76.03" y1="96.32" x2="86.53" y2="106.82"/>
+  <line class="cls-1" x1="86.53" y1="96.23" x2="76.03" y2="106.73"/>
+  <line class="cls-1" x1="88.5" y1="106.41" x2="99" y2="116.91"/>
+  <line class="cls-1" x1="99" y1="106.5" x2="88.5" y2="117"/>
+  <line class="cls-1" x1="101.03" y1="106.32" x2="111.53" y2="116.82"/>
+  <line class="cls-1" x1="111.53" y1="106.23" x2="101.03" y2="116.73"/>
+  <line class="cls-1" x1="88.5" y1="118.41" x2="99" y2="128.91"/>
+  <line class="cls-1" x1="99" y1="118.5" x2="88.5" y2="129"/>
+  <line class="cls-1" x1="101.03" y1="118.32" x2="111.53" y2="128.82"/>
+  <line class="cls-1" x1="111.53" y1="118.23" x2="101.03" y2="128.73"/>
+  <line class="cls-1" x1="113.5" y1="106.41" x2="124" y2="116.91"/>
+  <line class="cls-1" x1="124" y1="106.5" x2="113.5" y2="117"/>
+  <line class="cls-1" x1="126.03" y1="106.32" x2="136.53" y2="116.82"/>
+  <line class="cls-1" x1="136.53" y1="106.23" x2="126.03" y2="116.73"/>
+  <line class="cls-1" x1="113.5" y1="118.41" x2="124" y2="128.91"/>
+  <line class="cls-1" x1="124" y1="118.5" x2="113.5" y2="129"/>
+  <line class="cls-1" x1="126.03" y1="118.32" x2="136.53" y2="128.82"/>
+  <line class="cls-1" x1="136.53" y1="118.23" x2="126.03" y2="128.73"/>
+  <line class="cls-1" x1="63.5" y1="106.41" x2="74" y2="116.91"/>
+  <line class="cls-1" x1="74" y1="106.5" x2="63.5" y2="117"/>
+  <line class="cls-1" x1="76.03" y1="106.32" x2="86.53" y2="116.82"/>
+  <line class="cls-1" x1="86.53" y1="106.23" x2="76.03" y2="116.73"/>
+  <line class="cls-1" x1="63.5" y1="118.41" x2="74" y2="128.91"/>
+  <line class="cls-1" x1="74" y1="118.5" x2="63.5" y2="129"/>
+  <line class="cls-1" x1="76.03" y1="118.32" x2="86.53" y2="128.82"/>
+  <line class="cls-1" x1="86.53" y1="118.23" x2="76.03" y2="128.73"/>
+</svg>
